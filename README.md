@@ -3,7 +3,7 @@
 
 #### Resumo da minha trajetoria como desenvolvedor 
 
-Formado em Ciências Contábeis pela Universidade Federal de Viçosa e em transição de carreirar para desenvolvedor backend. Iniciei na programação em um curso do SENAC iniciado em setembro de 2022, onde aprendi lógica de programação com PHP/Portugol e desenvolvi alguns projetos Web Full Stack com a turma (HTML/CSS/JS,PHP e MySQL). Hoje trabalho no setor comercial com inteligência de mercado, por esse motivo, direcionei meus estudos para banco de dados e python por um período e até desenvolvi alguns freelancer com Django Framework e MySQL. Meu foco é me tornar um engenheiro de software no futuro, então, direcionei todos meus estudos ao desenvolvimento backend com C# (ASP.NET/.NET/SQL Server/MongoDB/Docker/DDD).
+Formado em Ciências Contábeis pela Universidade Federal de Viçosa e em transição de carreirar para desenvolvedor backend. Iniciei na programação em um curso do SENAC em setembro de 2022, onde aprendi lógica de programação com PHP/Portugol e desenvolvi alguns projetos Web Full Stack com a turma (HTML/CSS/JS,PHP e MySQL). Hoje, trabalho no setor comercial com inteligência de mercado, por esse motivo, direcionei meus estudos para banco de dados e python por um período e até desenvolvi alguns freelancer com Django Framework e MySQL. Meu foco é me tornar um engenheiro de software no futuro, então, direcionei todos meus estudos ao desenvolvimento backend com C# (ASP.NET/.NET/SQL Server/MongoDB/Docker/DDD).
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70" />
@@ -18,7 +18,7 @@ Formado em Ciências Contábeis pela Universidade Federal de Viçosa e em transi
 
 ---------------------------------------------------
 
-### Projeto Web Full Stack - [JBarreto Advocacia](https://jbarretoadvocacia.com/) 👨‍⚖️
+### Projeto Web Full Stack - [**JBarreto Advocacia**](https://jbarretoadvocacia.com/) 👨‍⚖️
 
 Freelancer para desenvolver um site de capitação ativa de clientes online. 
 
@@ -26,16 +26,16 @@ Freelancer para desenvolver um site de capitação ativa de clientes online.
 ![Design sem nome](https://github.com/guianino/guianino/assets/115737434/2c4c8c8e-8f8a-4635-82cd-114197820bee)
 
 
-#### Funcionalidades:
+#### 📲 Funcionalidades:
 
-* View home para copy writing e apresentação dos serviços e escritório;
+* View home para copywriting e apresentação dos serviços e escritório;
 * View de artigos (blog) para trazer tráfego orgânico (SEO);
 * Site responsivo;
 * Painel administrativo para cadastrar os artigos;
 * Formulário de email via SMTP;
 * Dentro das regras da LGPD.
 
-#### Tecnologia utilizada: 
+#### 💻 Tecnologia utilizada: 
 
 * Django Framework (Python);
 * HTML/CSS/JS;
@@ -52,7 +52,7 @@ Freelancer para desenvolver um site de capitação ativa de clientes online.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="50" height="50" />
 </div>
 
-#### Desenvolvimento de software: 
+#### 👨🏼‍💻 Desenvolvimento de software: 
 
 * Coleta de requisitos;
 * Entrega incremental;
@@ -60,4 +60,27 @@ Freelancer para desenvolver um site de capitação ativa de clientes online.
 * Manutenção de software;
 * Deploy.
 
+-----------------------------------------------------------------------------------------------------
 
+### BOT reasteador de preços baixos de produtos especificos em marketplaces
+
+Projeto surgiu de uma necessidade real então, deselvolvi um MVP para apresentar as funcionalidades do algoritmo.
+
+Link do repositório: https://github.com/guianino/productbot
+
+#### 📲 Funcionalidades: 
+
+* Web Scraping (raspagem de dados) em marketplaces, no exemplo desse esqueleto o escolhido foi o site da [Americanas](americanas.com.br);
+* Tratamento de dados;
+* Algoritmo para percorrer todos os anúncios dos produtos especificos no markeplace e retorna sua URL baseado em uma condição desejada (no caso preço menor que X).
+
+#### 💻 Tecnolgias: 
+
+* Python (algoritmo);
+* HTML (conhecimentos para trata os dados e realizar o web scraping);
+* Requests, BeautifulSoup, gzip, brotli, io (packages).
+
+<div align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+</div>
