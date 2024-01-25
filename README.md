@@ -32,7 +32,7 @@ Freelancer para desenvolver um site de capitação ativa de clientes online.
 * View de artigos (blog) para trazer tráfego orgânico (SEO);
 * Site responsivo;
 * Painel administrativo para cadastrar os artigos;
-* Formulário de email via SMPT;
+* Formulário de email via SMTP;
 * Dentro das regras da LGPD.
 
 #### Tecnologia utilizada: 
