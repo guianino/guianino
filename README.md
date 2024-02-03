@@ -3,10 +3,9 @@
 
 #### Resumo da minha trajetoria como desenvolvedor 
 
-Formado em Ciências Contábeis pela Universidade Federal de Viçosa e em transição de carreirar para desenvolvedor backend. Iniciei na programação em um curso do SENAC em setembro de 2022, onde aprendi lógica de programação com PHP/Portugol e desenvolvi alguns projetos Web Full Stack com a turma (HTML/CSS/JS,PHP e MySQL). Hoje, trabalho no setor comercial com inteligência de mercado, por esse motivo, direcionei meus estudos para banco de dados e python por um período e até desenvolvi alguns freelancer com Django Framework e MySQL. Meu foco é me tornar um engenheiro de software no futuro, então, direcionei todos meus estudos ao desenvolvimento backend com C# (ASP.NET/.NET/SQL Server/MongoDB/Docker/DDD).
+Formado em Ciências Contábeis pela Universidade Federal de Viçosa e em transição de carreirar para desenvolvedor backend. Iniciei na programação em um curso do SENAC em setembro de 2022, onde aprendi lógica de programação com PHP/Portugol e desenvolvi alguns projetos Web Full Stack com a turma (HTML/CSS/JS,PHP e MySQL). Hoje, trabalho no setor comercial com inteligência de mercado, por esse motivo, direcionei meus estudos para banco de dados e python por um período e até desenvolvi alguns freelancer com Django Framework e MySQL. Meu foco é me tornar um engenheiro de software no futuro, então, direcionei todos meus estudos ao desenvolvimento backend com C# (.NET/SQL Server/MongoDB/DDD).
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Logo 2" width="70" height="70" />
