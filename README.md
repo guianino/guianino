@@ -3,7 +3,7 @@
 
 #### Resumo da minha trajetoria como desenvolvedor 
 
-Contador pela Universidade Federal de Viçosa e desenvolvedor backend. Iniciei na programação em Julho de 2022 em um curso presencial do SENAC. Aprendi lógica de programação com PHP/Portugol e desenvolvi alguns projetos Web Full Stack com a turma do curso (HTML/CSS/JS,PHP e MySQL). Hoje, trabalho no setor comercial com inteligência de mercado, por esse motivo, direcionei meus estudos para banco de dados e python por um período e até desenvolvi alguns freelancer com Django Framework e MySQL. Meu foco é me tornar um engenheiro de software no futuro, então, hoje os meus esforços e estudos estão no desenvolvimento backend com C# (.NET/SQL Server/MongoDB/DDD/Azure).
+Contador pela Universidade Federal de Viçosa e desenvolvedor backend e cursando Análise e desenvolvimento de sistemas. Iniciei na programação em Julho de 2022 em um curso presencial do SENAC. Aprendi lógica de programação com PHP/Portugol e desenvolvi alguns projetos Web Full Stack com a turma do curso (HTML/CSS/JS,PHP e MySQL). Hoje, trabalho no setor comercial com inteligência de mercado, por esse motivo, direcionei meus estudos para banco de dados e python por um período e até desenvolvi alguns freelancer com Django Framework e MySQL. Meu foco é me tornar um engenheiro de software no futuro, então, hoje os meus esforços e estudos estão no desenvolvimento backend com C# (.NET/SQL Server/MongoDB/DDD/Azure).
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70" height="70" />
@@ -19,7 +19,7 @@ Contador pela Universidade Federal de Viçosa e desenvolvedor backend. Iniciei n
 
 ### Projeto Web Full Stack - [**JBarreto Advocacia**](https://jbarretoadvocacia.com/) 👨‍⚖️
 
-Freelancer para desenvolver um site de capitação ativa de clientes online. 
+Freelancer para desenvolver um site de capitação ativa de clientes para um escritório de Advocacia. 
 
 
 ![Design sem nome](https://github.com/guianino/guianino/assets/115737434/2c4c8c8e-8f8a-4635-82cd-114197820bee)
