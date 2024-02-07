@@ -65,7 +65,7 @@ Freelancer para desenvolver um site de capitação ativa de clientes para um esc
 
 ### API ASP.NET com SQL Server e Entity Framework
 
-Tutorial de como construir uma API (CRUD COMPLETO) disponibilizada no Youtube.
+Tutorial de como construir uma API (CRUD COMPLETO) disponibilizada no Youtube (cana @guianino).
 
 Repositório do projeto: https://github.com/guianino/CadastroClientesApi
 
