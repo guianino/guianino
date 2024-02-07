@@ -69,9 +69,9 @@ Tutorial de como construir uma API (CRUD COMPLETO) disponibilizada no Youtube (c
 
 Repositório do projeto: https://github.com/guianino/CadastroClientesApi
 
-<div>
+<div>  
   <a href="https://www.youtube.com/watch?v=MjwZXfMAoXY&t=615s">
-  <img src="https://github.com/guianino/guianino/assets/115737434/69925a4a-fd93-4d27-a13e-93290faff419" width="auto" height="200"/>
+  <img src="https://github.com/guianino/guianino/assets/115737434/69925a4a-fd93-4d27-a13e-93290faff419" width="auto" height="400"/>
   <a/>
 </div>
 
