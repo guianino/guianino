@@ -63,6 +63,42 @@ Freelancer para desenvolver um site de capitação ativa de clientes para um esc
 
 -----------------------------------------------------------------------------------------------------
 
+### API ASP.NET com SQL Server e Entity Framework
+
+Tutorial de como construir uma API (CRUD COMPLETO) disponibilizada no Youtube.
+
+Repositório do projeto: https://github.com/guianino/CadastroClientesApi
+
+<div>
+  <a href="https://www.youtube.com/watch?v=MjwZXfMAoXY&t=615s">
+  <img src="https://github.com/guianino/guianino/assets/115737434/69925a4a-fd93-4d27-a13e-93290faff419" width="auto" height="200"/>
+  <a/>
+</div>
+
+
+
+#### 💻 Tecnologia:
+
+* ASP.NET;
+* SQL Server;
+* Entity Framework;
+* Swagger;
+
+<div align="left">  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" height="50" />
+          
+</div>
+
+#### 👨🏼‍💻 Fundamentos: 
+
+* Programação orientada a objeto (POO/OOP);
+* RESP API;
+* Object Relational Mapper (ORM).
+
+---------------------------------------------------------------------------------------------------------------------------
+
 ### BOT reasteador de preços baixos de produtos especificos em marketplaces
 
 Projeto surgiu de uma necessidade real então, deselvolvi um MVP para apresentar as funcionalidades do algoritmo.
