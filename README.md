@@ -82,7 +82,7 @@ Repositório do projeto: https://github.com/guianino/CadastroClientesApi
 * ASP.NET;
 * SQL Server;
 * Entity Framework;
-* Swagger;
+* Swagger.
 
 <div align="left">  
   
