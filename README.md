@@ -1,8 +1,6 @@
 ### Olá, que bom que você chegou até o meu perfil 🤘
 ----------------------------------------------------
 
-#### Resumo da minha trajetoria como desenvolvedor 
-
 Desenvolvedor de software com experiência multidisciplinar, em gestão de projetos, gestão de produtos e processos corporativos/asministrativos. Atualmente, aplicando essa expertise e visão estratégica para transformar processos administrativos e operacionais por meio de automações inteligentes.
 Python, Inteligência Artificial Generativa, APIs REST, e soluções de ETL/ELT são as principais ferramentas utilizadas. Tenho experiência em integrar plataformas, extrair dados de maneira inteligente com a aplicação de AI, além de construir e consumir APIs para otimizar fluxos de trabalho e melhorar a eficiência organizacional.
 
