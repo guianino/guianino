@@ -1,4 +1,4 @@
-## What I'm working on
+## 🤖 What I'm working on
 
 Software Engineer focused on AI Automation, backend systems and cloud-native solutions.
 
