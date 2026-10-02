@@ -15,26 +15,27 @@ I build distributed applications, intelligent workflows and AI-powered products 
 ```text
 Languages
 ├── Python
-├── SQL
-└── C#
+├── JavaScript/TypeScript
+├── C#
+└── SQL
 
-Backend
+Backend Architecture & Engineering
 ├── FastAPI
-├── Django
+├── .NET
 ├── Tortoise ORM
-└── Event-Driven Systems
+├── Event-Driven Architecture (EDA)
+└── Message Brokers (Kafka / RabbitMQ)
 
 AI & Automation
-├── OpenAI API
-├── Claude Code
-├── N8N
-├── MCP
-├── RAG
-└── AI Agents
+├── LLM Integration & Orchestration
+├── AI Agents & MCP
+├── RAG (Retrieval-Augmented Generation)
+├── Agentic Workflows (Claude Code / Codex / Antigravity)
+└── Engineering Methodologies (SDD, Loop-Engineered Workflows)
 
-Cloud & Data
-├── Azure Functions
-├── Azure Queue Storage
-├── PostgreSQL
-└── Docker
+Cloud, DevOps & Data
+├── Azure (Functions, Queue Storage)
+├── Docker / Containerization
+└── Databases (PostgreSQL)
+
 ```
